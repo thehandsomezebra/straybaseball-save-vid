@@ -1,4 +1,4 @@
-# straybaseball-save-vid
+# Stray Baseball - Save Video Bookmarklet
 For my godfather, to save a video from mlb
 
 
